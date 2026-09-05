@@ -1,6 +1,6 @@
 # Welcome to Sudha Madhuri's GitHub Repository
 
-👋 Hi there! I'm Sudha Madhuri, an AI Engineer with 3.6 years of experience in building AI-powered applications using Python, Generative AI, and Agentic AI technologies.
+👋 Hi there! I'm Sudha Madhuri, an AI Engineer with 0.6 years of experience in building AI-powered applications using Python, Generative AI, and Agentic AI technologies.
 
 I enjoy developing AI agents, RAG applications, MCP servers, and scalable backend solutions using FastAPI, LangChain, AWS, and Docker.
 
