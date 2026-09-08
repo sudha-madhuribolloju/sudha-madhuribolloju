@@ -6,34 +6,57 @@ I enjoy developing AI agents, RAG applications, MCP servers, and scalable backen
 
 ---
 
-## 🚀 Skills
-
-- **Programming:** Python, SQL
-- **Generative AI:** LLMs, Prompt Engineering, RAG, AI Agents
-- **Frameworks:** LangChain, LangGraph, FastAPI, Flask
-- **Cloud:** AWS (EC2, S3, Lambda)
-- **DevOps:** Docker, Git, GitHub, CI/CD
-- **Databases:** PostgreSQL, Supabase
-- **Development Tools:** VS Code, Cursor, PyCharm, Jupyter Notebook
-- **Workflow Automation:** n8n
+TECHNICAL SKILLS
+Languages: Python
+Generative AI: LLMs, OpenAI, Anthropic Claude, Gemini, Prompt Engineering, RAG, AI Agents, Agentic AI
+Frameworks: LangChain, LangGraph, CrewAI, FastAPI, Flask 
+AI Coding Assistants: Cursor, GitHub Copilot, Claude 
+AI App Development Platforms: Cursor, Lovable, Antigravity, AI Google studio, Firebase Studio
+AI Protocols: MCP (Model Context Protocol), Tool Calling, API Integration 
+Cloud: AWS (EC2, S3, IAM, VPC, RDS, CloudWatch),AWS management console 
+DevOps: Docker, Docker Hub, Git, GitHub, CI/CD, GitHub Actions, Kubernetes
+Databases & Vector Stores: PostgreSQL, Supabase 
+Automation: n8n, Webhooks, Workflow Automation 
+Web Technologies: REST APIs, JSON, HTTP/HTTPS 
+Tools: VS Code, Jupyter Notebook, Postman
 
 ---
 
-## 📂 Projects
+📂 Projects
 
-### 🤖 AI Resume Builder
+AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
-AI-powered resume builder that generates ATS-friendly resumes and cover letters.
+Built an AI Agent for Linux System Automation
 
-**Technologies**
+Instead of manually remembering and executing Linux commands, I built an AI-powered Linux automation agent that understands natural-language requirements and uses a Shell Tool to execute the appropriate commands on a Linux environment.
 
-- Python
-- FastAPI
-- LangChain
-- Supabase
-- Docker
+🧠 How it works:
 
-👉 [View Project](https://github.com/yourusername/project-name)
+User Request → Gemini LLM → AI Agent → Shell Tool → Linux Command → Result → AI Response
+
+For example, instead of manually running:
+
+df -h
+
+a user can simply ask:
+
+"Give me the disk details."
+
+The agent determines the appropriate command, executes it through the Shell Tool, and returns the result. The project also demonstrates tasks such as retrieving Linux user information.
+
+🔧 Key Implementation:
+
+• Integrated Google Gemini with LangChain
+• Implemented a Linux Shell Tool
+• Built an AI agent using Gemini + Shell Tool
+• Used System and Human messages to guide agent behavior
+• Executed Linux commands through the agent
+• Returned command output as an AI-generated response
+• Deployed/tested the agent on an AWS EC2 Linux environment
+
+The project workflow covers everything from launching an EC2 instance and setting up a GitHub repository to cloning the project onto Linux and connecting Gemini through LangChain.
+
+👉 [View Project](https://github.com/sudha-madhuribolloju/Linux-Agent))
 
 ---
 
