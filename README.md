@@ -24,7 +24,7 @@ Tools: VS Code, Jupyter Notebook, Postman
 
 📂 Projects
 
-AI Linux Automation Agent | Gemini + LangChain + Shell Tool
+1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
 Built an AI Agent for Linux System Automation
 
@@ -60,18 +60,41 @@ The project workflow covers everything from launching an EC2 instance and settin
 
 ---
 
-### 💬 RAG Chatbot
+2.Nexora AI Classroom Agent | AI-Powered Intelligent Learning & Teaching Platform
 
-A chatbot that answers questions using uploaded documents.
+What if your classroom could have an AI assistant that doesn't just answer questions, but continuously supports teaching, learning, assessment, and student progress?
 
-**Technologies**
+🚀 Introducing NEXORA — AI Classroom Agent
 
-- LangChain
-- ChromaDB
-- OpenAI
-- FastAPI
+NEXORA is an AI-powered educational platform designed to bring intelligent assistance into the entire classroom journey.
 
-👉 [View Project](https://github.com/yourusername/project-name)
+🧠 Key capabilities include:
+
+🔹 AI Tutor & Chatbot — personalized learning assistance and question answering
+🔹 RAG-based PDF Chat — students can upload learning materials and ask questions with relevant document context
+🔹 Lecture Intelligence — speech recognition converts live lectures into transcripts
+🔹 NLP Processing — extracts topics, keywords, and concepts from lectures
+🔹 AI Summarization — automatically generates structured notes, flashcards, and action items
+🔹 AI Quiz Generation — creates MCQs, short-answer, and coding questions with auto-grading
+🔹 Learning Analytics — tracks attendance, quiz performance, weak topics, and student progress
+🔹 AI Recommendations — identifies learning gaps and recommends relevant materials
+🔹 Real-Time Communication — WebSockets enable live classroom updates, AI chat streaming, voice streaming, and notifications
+
+🏗️ Architecture & Technology
+
+Python | FastAPI | PostgreSQL | pgvector | LLMs | RAG | NLP | Speech Recognition | WebSockets | JWT Authentication | Role-Based Authorization
+
+The platform uses PostgreSQL + pgvector to store both relational data and vector embeddings, enabling semantic search and RAG without requiring a separate vector database.
+
+🔄 End-to-end AI workflow:
+
+Lecture → Speech-to-Text → NLP → LLM → Notes & Quiz → RAG → AI Interaction → Analytics → Personalized Insights
+
+What makes this project interesting to me is that it goes beyond a simple AI chatbot. The goal is to build an AI-powered educational ecosystem where AI continuously assists teachers, students, and administrators throughout the learning journey.
+
+
+
+👉 [View Project](https://github.com/sudha-madhuribolloju/Nexora-)
 
 ---
 
