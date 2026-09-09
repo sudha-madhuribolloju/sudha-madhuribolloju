@@ -133,7 +133,7 @@ CrewAI
 Pydantic
 Langfuse
 
-👉 [View Project](https://github.com/yourusername/project-name)
+👉 [View Project](https://github.com/sudha-madhuribolloju/crew)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -143,6 +143,8 @@ A resilient LangChain Q&A bot that delivers validated structured responses with 
 
 Langchain
 Pydantic
+
+👉 [View Project](https://github.com/sudha-madhuribolloju/langchain)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Weather Assistant with MCP
@@ -151,6 +153,9 @@ Built a custom Model Context Protocol (MCP) server in Python using FastMCP that 
 MCP
 Claude Desktop
 Cursor
+
+👉 [View Project](https://github.com/sudha-madhuribolloju/MCP-demo)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Analysis & Transformation Pipeline | Pandas & Jupyter Notebook
 
@@ -158,6 +163,8 @@ Built a Pandas-based data analysis pipeline covering data cleaning, type convers
 Pandas
 Jupyter Notebook
 Python
+
+👉 [View Project](https://github.com/sudha-madhuribolloju/data_analysis)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
