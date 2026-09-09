@@ -1,26 +1,34 @@
-# Welcome to Sudha Madhuri's GitHub Repository
+# 👋 Welcome to Sudha Madhuri's GitHub
 
-👋 Hi there! I'm Sudha Madhuri, an AI Engineer with 0.6 years of experience in building AI-powered applications using Python, Generative AI, and Agentic AI technologies.
+Hi there! I'm **Sudha Madhuri**, an **AI Engineer** passionate about building practical solutions with **Generative AI, Agentic AI, and intelligent automation**.
 
-I enjoy developing AI agents, RAG applications, MCP servers, and scalable backend solutions using FastAPI, LangChain, AWS, and Docker.
+I started my professional journey in **automation as a UiPath Developer**, where I worked on automating business processes and developing automation bots. Over time, I transitioned into **AI Engineering**, combining my automation experience with modern AI technologies.
 
----
+Today, I focus on building **LLM-powered applications, AI agents, RAG systems, MCP servers, and intelligent automation solutions**. I enjoy creating AI systems that can **reason, use tools, interact with external systems, and automate multi-step tasks** to solve real-world problems.
 
-TECHNICAL SKILLS
-Languages: Python
-Generative AI: LLMs, OpenAI, Anthropic Claude, Gemini, Prompt Engineering, RAG, AI Agents, Agentic AI
-Frameworks: LangChain, LangGraph, CrewAI, FastAPI, Flask 
-AI Coding Assistants: Cursor, GitHub Copilot, Claude 
-AI App Development Platforms: Cursor, Lovable, Antigravity, AI Google studio, Firebase Studio
-AI Protocols: MCP (Model Context Protocol), Tool Calling, API Integration 
-Cloud: AWS (EC2, S3, IAM, VPC, RDS, CloudWatch),AWS management console 
-DevOps: Docker, Docker Hub, Git, GitHub, CI/CD, GitHub Actions, Kubernetes
-Databases & Vector Stores: PostgreSQL, Supabase 
-Automation: n8n, Webhooks, Workflow Automation 
-Web Technologies: REST APIs, JSON, HTTP/HTTPS 
-Tools: VS Code, Jupyter Notebook, Postman
+I'm continuously learning, experimenting, and building projects at the intersection of **AI, automation, cloud, and software engineering**.
 
----
+🎯 **My goal is to build reliable, scalable, and practical AI systems that move beyond simple conversations and help automate real-world tasks.**
+
+> **Build. Learn. Innovate. Automate. 🚀**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+- 🤖 **AI Engineer** passionate about Generative AI, Agentic AI, LLMs, and intelligent automation
+- 🐍 Building practical **AI-powered applications and autonomous AI agents** with Python
+- 🧠 Exploring **LLMs, RAG, Prompt Engineering, Tool Calling, and Agentic Workflows**
+- 🔗 Building agent-based solutions using **LangChain, LangGraph, CrewAI, and MCP**
+- ⚡ Developing scalable AI backends with **FastAPI and Flask**
+- ☁️ Deploying and managing AI solutions using **AWS and cloud-native technologies**
+- 🐳 Working with **Docker, Kubernetes, GitHub, CI/CD, and GitHub Actions**
+- 🗄️ Integrating **PostgreSQL, Supabase, APIs, and external services** into AI applications
+- ⚙️ Creating intelligent workflows and business automation using **n8n and Webhooks**
+- 💻 Using modern **AI coding assistants and AI application development platforms** to build faster and experiment with new ideas
+- 🚀 Focused on transforming AI capabilities into **reliable, scalable, and real-world solutions**
+- 📚 **Learning → Building → Experimenting → Improving**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📂 Projects
 
