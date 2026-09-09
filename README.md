@@ -186,7 +186,7 @@ Godavari Institute of Engineering & Technology (GIET)
 
 JNTU Kakinada
 
----
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Contact
 
@@ -195,7 +195,21 @@ JNTU Kakinada
 💼 LinkedIn: https://linkedin.com/in/sudha-ai
 
 💻 GitHub: https://github.com/sudha-madhuribolloju
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Fun Fact
 
-## 📊 GitHub Stats
+ 💡 My goal: **Build AI that does more than talk — AI that takes action.**
+ -----
 
-![Sudha Madhuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudha-madhuribolloju&show_icons=true&theme=tokyonight)
+ ### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ my repositories and connect with me. 
+I’m always interested in learning, building, and collaborating on innovative AI solutions.
+
+- 🔭 **Currently Building:** Generative AI, Agentic AI, AI Agents & LLM Applications
+- 🌱 **Currently Learning:** Multi-Agent Systems, LLM Orchestration & AI Automation
+- 👯 **Looking to Collaborate:** AI Agents, RAG, LLM Applications & Automation
+- 💬 **Ask Me About:** Python, GenAI, Agentic AI, RAG, LangChain, LangGraph, CrewAI, MCP & AWS
+- 🚀 **Passionate About:** Building AI systems that can reason, use tools & take action
+- 📫 **Connect:** LinkedIn
+- ⚡ **Fun Fact:** Started with RPA → transitioned into AI Engineering → now building Agentic AI 🤖
