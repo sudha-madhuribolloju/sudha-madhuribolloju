@@ -29,8 +29,36 @@ I'm continuously learning, experimenting, and building projects at the intersect
 - 📚 **Learning → Building → Experimenting → Improving**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💼 Experience
 
-📂 Projects
+### 🤖 AI Engineer — AgentOpsLabs
+**Present**
+
+Working on **Generative AI, Agentic AI, LLM-powered applications, and intelligent automation solutions**.
+
+- Building **AI Agents, RAG applications, and LLM-powered solutions** using Python and modern AI frameworks.
+- Developing agentic workflows using **LangChain, LangGraph, CrewAI, and MCP**.
+- Integrating AI systems with **APIs, tools, databases, and external systems** to automate multi-step tasks.
+- Developing AI and backend applications using **FastAPI and Flask**.
+- Working with **AWS, Docker, GitHub, CI/CD, and cloud-native deployments**.
+- Exploring practical applications of **LLMs, Tool Calling, RAG, and Agentic AI** to solve real-world business problems.
+
+### ⚙️ UiPath Developer — Automation
+**Previous Experience**
+
+Started my professional journey in **RPA and business process automation**, developing and maintaining automation solutions using **UiPath**.
+
+- Developed **automation bots** for web, Windows, and enterprise applications. Automated repetitive business processes to improve **efficiency and productivity**.
+- Worked on bot maintenance, troubleshooting, and process improvements. Gained strong experience in **automation, workflow design, problem-solving, and process optimization**.
+
+### 🚀 Career Journey
+
+**RPA & Automation → AI Engineering → Generative AI → Agentic AI**
+
+My experience in automation provided a strong foundation for building intelligent systems, and I’m now combining **automation, AI, cloud, and software engineering** to create practical and scalable AI solutions.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📂 Projects
 
 1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
@@ -42,13 +70,7 @@ Instead of manually remembering and executing Linux commands, I built an AI-powe
 
 User Request → Gemini LLM → AI Agent → Shell Tool → Linux Command → Result → AI Response
 
-For example, instead of manually running:
-
-df -h
-
-a user can simply ask:
-
-"Give me the disk details."
+a user can simply ask: "Give me the disk details."
 
 The agent determines the appropriate command, executes it through the Shell Tool, and returns the result. The project also demonstrates tasks such as retrieving Linux user information.
 
@@ -66,9 +88,9 @@ The project workflow covers everything from launching an EC2 instance and settin
 
 👉 [View Project](https://github.com/sudha-madhuribolloju/Linux-Agent))
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2.Nexora AI Classroom Agent | AI-Powered Intelligent Learning & Teaching Platform
+# 2.Nexora AI Classroom Agent | AI-Powered Intelligent Learning & Teaching Platform
 
 What if your classroom could have an AI assistant that doesn't just answer questions, but continuously supports teaching, learning, assessment, and student progress?
 
@@ -100,11 +122,9 @@ Lecture → Speech-to-Text → NLP → LLM → Notes & Quiz → RAG → AI Inter
 
 What makes this project interesting to me is that it goes beyond a simple AI chatbot. The goal is to build an AI-powered educational ecosystem where AI continuously assists teachers, students, and administrators throughout the learning journey.
 
-
-
 👉 [View Project](https://github.com/sudha-madhuribolloju/Nexora-)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔗 MCP Server
 
@@ -118,7 +138,45 @@ Developed an MCP Server to integrate AI agents with external tools.
 
 👉 [View Project](https://github.com/yourusername/project-name)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🛠️ Technical Skills
+
+### Programming
+
+`Python`
+
+### Artificial Intelligence & Generative AI
+
+`Artificial Intelligence` `Generative AI` `LLMs` `OpenAI` `Anthropic Claude` `Google Gemini` `Prompt Engineering` `RAG` `AI Agents` `Agentic AI`
+
+### AI Agent Frameworks
+
+`LangChain` `LangGraph` `CrewAI` `MCP` `Tool Calling` `LLM Applications`
+
+### AI Development Tools
+
+`Cursor` `GitHub Copilot` `Claude` `Lovable` `Antigravity` `Google AI Studio` `Firebase Studio`
+
+### Backend & API Development
+
+`FastAPI` `Flask` `REST APIs` `API Integration` `JSON` `HTTP/HTTPS`
+
+### Cloud & DevOps
+
+`AWS` `EC2` `S3` `IAM` `VPC` `RDS` `CloudWatch` `Docker` `Docker Hub` `Kubernetes` `Git` `GitHub` `CI/CD` `GitHub Actions`
+
+### Databases & Vector Stores
+
+`PostgreSQL` `Supabase`
+
+### Automation
+
+`n8n`  `Workflow Automation` `AI Automation`
+
+### Development Tools
+
+`VS Code` `Jupyter Notebook` `Postman`
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education
 
