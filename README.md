@@ -60,7 +60,7 @@ My experience in automation provided a strong foundation for building intelligen
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📂 Projects
 
-1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
+# 1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
 Built an AI Agent for Linux System Automation
 
@@ -126,19 +126,41 @@ What makes this project interesting to me is that it goes beyond a simple AI cha
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🔗 MCP Server
+### 🔗 Multi-Agent Technology Research & Observability System | CrewAI + Pydantic + Langfuse
 
-Developed an MCP Server to integrate AI agents with external tools.
-
-**Technologies**
-
-- Python
-- MCP
-- FastAPI
+Built a CrewAI multi-agent research workflow with Researcher and Reporting Agents, using Pydantic for structured JSON output and Langfuse for LLM observability, latency monitoring, token tracking, and agent context tracing.
+CrewAI
+Pydantic
+Langfuse
 
 👉 [View Project](https://github.com/yourusername/project-name)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🔗Smart Q&A Bot
+
+A resilient LangChain Q&A bot that delivers validated structured responses with graceful error handling and parallel batch processing.
+
+Langchain
+Pydantic
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Weather Assistant with MCP
+
+Built a custom Model Context Protocol (MCP) server in Python using FastMCP that enables AI assistants to access real-time weather information from the National Weather Service (NWS) API.
+MCP
+Claude Desktop
+Cursor
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Data Analysis & Transformation Pipeline | Pandas & Jupyter Notebook
+
+Built a Pandas-based data analysis pipeline covering data cleaning, type conversion, Boolean filtering, sorting, ranking, aggregation, time-series resampling, and multi-format data export using Python and Jupyter Notebook.
+Pandas
+Jupyter Notebook
+Python
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 🛠️ Technical Skills
 
 ### Programming
