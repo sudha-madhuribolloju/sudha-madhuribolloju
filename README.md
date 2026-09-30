@@ -83,9 +83,9 @@ Started my professional journey in **RPA and business process automation**, deve
 - Worked on bot maintenance, troubleshooting, and process improvements. Gained strong experience in **automation, workflow design, problem-solving, and process optimization**.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📂 Projects
+# 📂 Projects
 
-# AI Linux Automation Agent | Gemini + LangChain + Shell Tool
+## AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
 Built an AI Agent for Linux System Automation
 
@@ -113,7 +113,7 @@ The project workflow covers everything from launching an EC2 instance and settin
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🚀 NEXORA AI Classroom Agent
+## 🚀 NEXORA AI Classroom Agent
 
 AI-powered platform for **intelligent learning, teaching, assessment, and student insights**.
 
@@ -134,7 +134,7 @@ AI-powered platform for **intelligent learning, teaching, assessment, and studen
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🔗 Multi-Agent Technology Research & Observability System | CrewAI + Pydantic + Langfuse
+## 🔗 Multi-Agent Technology Research & Observability System | CrewAI + Pydantic + Langfuse
 
 Built a CrewAI multi-agent research workflow with Researcher and Reporting Agents, using Pydantic for structured JSON output and Langfuse for LLM observability, latency monitoring, token tracking, and agent context tracing.
 CrewAI
@@ -145,7 +145,7 @@ Langfuse
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🔗Smart Q&A Bot
+## 🔗Smart Q&A Bot
 
 A resilient LangChain Q&A bot that delivers validated structured responses with graceful error handling and parallel batch processing.
 
@@ -155,7 +155,7 @@ Pydantic
 👉 [View Project](https://github.com/sudha-madhuribolloju/langchain)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Weather Assistant with MCP
+## Weather Assistant with MCP
 
 Built a custom Model Context Protocol (MCP) server in Python using FastMCP that enables AI assistants to access real-time weather information from the National Weather Service (NWS) API.
 MCP
@@ -165,7 +165,7 @@ Cursor
 👉 [View Project](https://github.com/sudha-madhuribolloju/MCP-demo)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Data Analysis & Transformation Pipeline | Pandas & Jupyter Notebook
+## Data Analysis & Transformation Pipeline | Pandas & Jupyter Notebook
 
 Built a Pandas-based data analysis pipeline covering data cleaning, type conversion, Boolean filtering, sorting, ranking, aggregation, time-series resampling, and multi-format data export using Python and Jupyter Notebook.
 Pandas
@@ -193,7 +193,9 @@ JNTU Kakinada
 
 💻 GitHub: https://github.com/sudha-madhuribolloju
 
-![GitHub Stats](https://ghstats.dev/api/card?username=sudha-madhuribolloju)
+Profile Views
+https://github.com/sudha-madhuribolloju/github-profile-views-counter
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Fun Fact
 
