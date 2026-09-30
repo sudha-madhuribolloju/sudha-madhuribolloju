@@ -192,6 +192,8 @@ JNTU Kakinada
 💼 LinkedIn: https://linkedin.com/in/sudha-ai
 
 💻 GitHub: https://github.com/sudha-madhuribolloju
+
+![GitHub Stats](https://ghstats.dev/api/card?username=sudha-madhuribolloju)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Fun Fact
 
