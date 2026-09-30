@@ -82,16 +82,10 @@ Started my professional journey in **RPA and business process automation**, deve
 - Developed **automation bots** for web, Windows, and enterprise applications. Automated repetitive business processes to improve **efficiency and productivity**.
 - Worked on bot maintenance, troubleshooting, and process improvements. Gained strong experience in **automation, workflow design, problem-solving, and process optimization**.
 
-### 🚀 Career Journey
-
-**RPA & Automation → AI Engineering → Generative AI → Agentic AI**
-
-My experience in automation provided a strong foundation for building intelligent systems, and I’m now combining **automation, AI, cloud, and software engineering** to create practical and scalable AI solutions.
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📂 Projects
 
-# 1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
+ 1.AI Linux Automation Agent | Gemini + LangChain + Shell Tool
 
 Built an AI Agent for Linux System Automation
 
@@ -101,9 +95,7 @@ Instead of manually remembering and executing Linux commands, I built an AI-powe
 
 User Request → Gemini LLM → AI Agent → Shell Tool → Linux Command → Result → AI Response
 
-a user can simply ask: "Give me the disk details."
-
-The agent determines the appropriate command, executes it through the Shell Tool, and returns the result. The project also demonstrates tasks such as retrieving Linux user information.
+a user can simply ask: "Give me the disk details." The agent determines the appropriate command, executes it through the Shell Tool, and returns the result. The project also demonstrates tasks such as retrieving Linux user information.
 
 🔧 Key Implementation:
 
