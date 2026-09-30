@@ -194,7 +194,7 @@ JNTU Kakinada
 💻 GitHub: https://github.com/sudha-madhuribolloju
 
 Profile Views
-(https://komarev.com/ghpvc/?username=sudha-madhuribolloju)
+(https://ghstats.dev/api/card?username=sudha-madhuribolloju&theme=midnight)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Fun Fact
