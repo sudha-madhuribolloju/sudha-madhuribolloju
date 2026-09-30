@@ -13,20 +13,51 @@ I'm continuously learning, experimenting, and building projects at the intersect
 > **Build. Learn. Innovate. Automate. 🚀**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+### 🚀 Career Journey
 
-- 🤖 **AI Engineer** passionate about Generative AI, Agentic AI, LLMs, and intelligent automation
-- 🐍 Building practical **AI-powered applications and autonomous AI agents** with Python
-- 🧠 Exploring **LLMs, RAG, Prompt Engineering, Tool Calling, and Agentic Workflows**
-- 🔗 Building agent-based solutions using **LangChain, LangGraph, CrewAI, and MCP**
-- ⚡ Developing scalable AI backends with **FastAPI and Flask**
-- ☁️ Deploying and managing AI solutions using **AWS and cloud-native technologies**
-- 🐳 Working with **Docker, Kubernetes, GitHub, CI/CD, and GitHub Actions**
-- 🗄️ Integrating **PostgreSQL, Supabase, APIs, and external services** into AI applications
-- ⚙️ Creating intelligent workflows and business automation using **n8n and Webhooks**
-- 💻 Using modern **AI coding assistants and AI application development platforms** to build faster and experiment with new ideas
-- 🚀 Focused on transforming AI capabilities into **reliable, scalable, and real-world solutions**
-- 📚 **Learning → Building → Experimenting → Improving**
+**RPA & Automation → AI Engineering → Generative AI → Agentic AI**
+
+My experience in automation provided a strong foundation for building intelligent systems, and I’m now combining **automation, AI, cloud, and software engineering** to create practical and scalable AI solutions.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠️ Technical Skills
+
+### Programming
+
+`Python`
+
+### Artificial Intelligence & Generative AI
+
+`Artificial Intelligence` `Generative AI` `LLMs` `OpenAI` `Anthropic Claude` `Google Gemini` `Prompt Engineering` `RAG` `AI Agents` `Agentic AI`
+
+### AI Agent Frameworks
+
+`LangChain` `LangGraph` `CrewAI` `MCP` `Tool Calling` `LLM Applications`
+
+### AI Development Tools
+
+`Cursor` `GitHub Copilot` `Claude` `Lovable` `Antigravity` `Google AI Studio` `Firebase Studio`
+
+### Backend & API Development
+
+`FastAPI` `Flask` `REST APIs` `API Integration` `JSON` `HTTP/HTTPS`
+
+### Cloud & DevOps
+
+`AWS` `EC2` `S3` `IAM` `VPC` `RDS` `CloudWatch` `Docker` `Docker Hub` `Kubernetes` `Git` `GitHub` `CI/CD` `GitHub Actions`
+
+### Databases & Vector Stores
+
+`PostgreSQL` `Supabase`
+
+### Automation
+
+`n8n`  `Workflow Automation` `AI Automation`
+
+### Development Tools
+
+`VS Code` `Jupyter Notebook` `Postman`
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💼 Experience
@@ -90,39 +121,24 @@ The project workflow covers everything from launching an EC2 instance and settin
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2.Nexora AI Classroom Agent | AI-Powered Intelligent Learning & Teaching Platform
+# 🚀 NEXORA AI Classroom Agent
 
-What if your classroom could have an AI assistant that doesn't just answer questions, but continuously supports teaching, learning, assessment, and student progress?
+AI-powered platform for **intelligent learning, teaching, assessment, and student insights**.
 
-🚀 Introducing NEXORA — AI Classroom Agent
+### ✨ Features
 
-NEXORA is an AI-powered educational platform designed to bring intelligent assistance into the entire classroom journey.
+* 🧠 AI Tutor & Chatbot
+* 📄 RAG-based PDF Chat
+* 🎙️ Lecture Transcription & AI Summarization
+* 🧩 AI Quiz Generation
+* 📊 Learning Analytics & Recommendations
+* ⚡ Real-Time Communication
 
-🧠 Key capabilities include:
+### 🏗️ Tech Stack
 
-🔹 AI Tutor & Chatbot — personalized learning assistance and question answering
-🔹 RAG-based PDF Chat — students can upload learning materials and ask questions with relevant document context
-🔹 Lecture Intelligence — speech recognition converts live lectures into transcripts
-🔹 NLP Processing — extracts topics, keywords, and concepts from lectures
-🔹 AI Summarization — automatically generates structured notes, flashcards, and action items
-🔹 AI Quiz Generation — creates MCQs, short-answer, and coding questions with auto-grading
-🔹 Learning Analytics — tracks attendance, quiz performance, weak topics, and student progress
-🔹 AI Recommendations — identifies learning gaps and recommends relevant materials
-🔹 Real-Time Communication — WebSockets enable live classroom updates, AI chat streaming, voice streaming, and notifications
+**Python | FastAPI | PostgreSQL | pgvector | Gemini | RAG | NLP | WebSockets | JWT**
 
-🏗️ Architecture & Technology
-
-Python | FastAPI | PostgreSQL | pgvector | LLMs | RAG | NLP | Speech Recognition | WebSockets | JWT Authentication | Role-Based Authorization
-
-The platform uses PostgreSQL + pgvector to store both relational data and vector embeddings, enabling semantic search and RAG without requiring a separate vector database.
-
-🔄 End-to-end AI workflow:
-
-Lecture → Speech-to-Text → NLP → LLM → Notes & Quiz → RAG → AI Interaction → Analytics → Personalized Insights
-
-What makes this project interesting to me is that it goes beyond a simple AI chatbot. The goal is to build an AI-powered educational ecosystem where AI continuously assists teachers, students, and administrators throughout the learning journey.
-
-👉 [View Project](https://github.com/sudha-madhuribolloju/Nexora-)
+**Workflow:** Lecture → Speech-to-Text → LLM → Notes & Quiz → RAG → Analytics
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -166,46 +182,6 @@ Python
 
 👉 [View Project](https://github.com/sudha-madhuribolloju/data_analysis)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## 🛠️ Technical Skills
-
-### Programming
-
-`Python`
-
-### Artificial Intelligence & Generative AI
-
-`Artificial Intelligence` `Generative AI` `LLMs` `OpenAI` `Anthropic Claude` `Google Gemini` `Prompt Engineering` `RAG` `AI Agents` `Agentic AI`
-
-### AI Agent Frameworks
-
-`LangChain` `LangGraph` `CrewAI` `MCP` `Tool Calling` `LLM Applications`
-
-### AI Development Tools
-
-`Cursor` `GitHub Copilot` `Claude` `Lovable` `Antigravity` `Google AI Studio` `Firebase Studio`
-
-### Backend & API Development
-
-`FastAPI` `Flask` `REST APIs` `API Integration` `JSON` `HTTP/HTTPS`
-
-### Cloud & DevOps
-
-`AWS` `EC2` `S3` `IAM` `VPC` `RDS` `CloudWatch` `Docker` `Docker Hub` `Kubernetes` `Git` `GitHub` `CI/CD` `GitHub Actions`
-
-### Databases & Vector Stores
-
-`PostgreSQL` `Supabase`
-
-### Automation
-
-`n8n`  `Workflow Automation` `AI Automation`
-
-### Development Tools
-
-`VS Code` `Jupyter Notebook` `Postman`
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education
 
